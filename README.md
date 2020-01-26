@@ -1,4 +1,4 @@
-# Multiple Correspondence K-Means
+# Multiple Correspondence K-Means (MCKM)
 
 A statistical method to apply the factorial analysis and simultaneously an unsupervised classification approach for categorical data.
 
