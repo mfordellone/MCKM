@@ -436,5 +436,3 @@ sumi=.5*(sum(sum(N').^2)-n);
 sumj=.5*(sum(sum(N).^2)-n);
 pb=sumi*sumj/(n*(n-1)/2);
 mri=(.5*(sum(sum(N.^2))-n)-pb)/((sumi+sumj)/2-pb);
-
- 
