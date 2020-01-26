@@ -1,6 +1,6 @@
 # Multiple Correspondence K-Means
 
-A statistical method to apply the factorial analysis and simultaneously an unsipervised classification approach for categorical data.
+A statistical method to apply the factorial analysis and simultaneously an unsupervised classification approach for categorical data.
 
 You can test the algorithm using the benchmark dataset of South Korean underwear manufacturer data fixing P = 2 and K = 3.
 
