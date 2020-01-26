@@ -4,6 +4,12 @@
 %                                                                           %
 % ************************************************************************* %
 
+% Authors: Mario Fordellone and Maurizio Vichi 2015
+% Sapienza University of Rome
+% mail: mario.fordellone@uniroma1.it / maurizio.vichi@unioroma1.it
+
+% ************************************************************************* %
+
 function [Urkm,Arkm, Yrkm,frkm,inrkm, Xs,varT,var1,var2]=MCKM(X, K, Q, varargin)
 
 %[Uc,Ac, Yc, fc, inc, Xs, varT, var1, var2]=MCKM(X, K, Q, 'Stand', 'qual', 'Rndst', 500);
