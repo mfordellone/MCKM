@@ -10,7 +10,7 @@
 
 % ************************************************************************* %
 
-function [Urkm,Arkm, Yrkm,frkm,inrkm, Xs,varT,var1,var2]=MCKM(X, K, Q, varargin)
+function [Urkm,Arkm, Yrkm,frkm,inrkm, Xs,varT,var1,var2] = MCKM(X, K, Q, varargin)
 
 %[Uc,Ac, Yc, fc, inc, Xs, varT, var1, var2]=MCKM(X, K, Q, 'Stand', 'qual', 'Rndst', 500);
 %
